@@ -1,0 +1,42 @@
+
+  body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-image: linear-gradient(rgba(24, 63, 125, 0.423), rgba(24, 63, 125, 0.423)),url(gemera.png);
+
+  }
+  #story {
+    margin: auto;
+    background-color: #e0dddd91;
+    border-radius: 20px;
+    padding: 30px;
+  }
+  #heading {
+    color: black;
+    text-align: center;
+  }
+  .btn{
+    display: inline-block;
+    text-decoration: none;
+    color: #000000;
+    border: 1px solid #000000;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+.btn:hover{
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    background: rgba(224, 31, 31, 0.7);
+    transition: 1s;
+}
+.btns{
+margin-left: 36%
+;}
+footer{
+  margin-top: 140px;
+  text-align: center;
+  color: #ffffff;
+}
